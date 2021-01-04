@@ -6,7 +6,7 @@ body{
     padding:30px;
 }
 #nav{
-    height:30%;
+    height:10%;
 }
 
 
@@ -39,9 +39,12 @@ button{
     border-radius: 50px;
     background-color: white;
     color:hsl(257, 40%, 49%);
-    width:50%;
-    height:10%;
+    font-weight:400,600;    
+    font-family: 'Open Sans', sans-serif;
+    width:35%;
+    height:15%;
     border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     
 }
 button:hover{
@@ -63,6 +66,7 @@ i.fa {
     border:1px solid white;
     color: #fff;
     border-radius: 0.8em; 
+    
 
 }
 
